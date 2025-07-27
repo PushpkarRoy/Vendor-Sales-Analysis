@@ -38,7 +38,7 @@ Used Python (Pandas) for:
 
 📄 Output file: `vendor_summary_table.csv`
 
-![Python Code Sample](https://your-link-to-python-code-image.png)
+[![Python Code Sample](https://your-link-to-python-code-image.png)](https://github.com/PushpkarRoy/Vendor-Sales-Analysis/blob/main/Python_Jupiter.png)
 
 ---
 
@@ -52,7 +52,7 @@ PostgreSQL was used to:
 
 📁 File: `dB_Analysis_SQL.sql`
 
-![SQL Query Sample](https://your-link-to-sql-query-image.png)
+[![SQL Query Sample](https://your-link-to-sql-query-image.png)](https://github.com/PushpkarRoy/Vendor-Sales-Analysis/blob/main/SQL%20SS_Image.png)
 
 ---
 
@@ -67,7 +67,7 @@ Interactive visual dashboard showing:
 
 📈 KPI Cards, Pie Charts, Line + Bar Mix
 
-![Power BI Dashboard](https://your-link-to-dashboard-image.png)
+[![Power BI Dashboard](https://your-link-to-dashboard-image.png)](https://github.com/PushpkarRoy/Vendor-Sales-Analysis/blob/main/Vendor%20Sales%20Analysis%20Dashboard.png)
 
 ---
 
