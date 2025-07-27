@@ -2,7 +2,7 @@
 
 > 🔍 A complete data analysis project using Python, SQL, and Power BI to uncover business insights, optimize vendor performance, and drive procurement efficiency across a large-scale retail and e-commerce network.
 
-![Dashboard Banner](https://your-link-to-powerbi-image.png)
+[![Dashboard Banner](https://your-link-to-powerbi-image.png)](https://github.com/PushpkarRoy/Vendor-Sales-Analysis/blob/main/Vendor%20Sales%20Analysis%20Dashboard.png)
 
 ---
 
