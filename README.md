@@ -16,7 +16,7 @@ The goal of this project is to analyze vendor performance across purchasing, inv
     
 ---
 
-## 📂 Dataset Overview          
+## 📂 Dataset Overview            
 
 | Table Name         | Description                          | Rows       |
 |--------------------|--------------------------------------|------------|
