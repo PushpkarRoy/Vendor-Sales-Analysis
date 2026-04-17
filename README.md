@@ -15,7 +15,7 @@ The goal of this project is to analyze vendor performance across purchasing, inv
 - Enable data-driven decisions through interactive dashboards     
     
 ---     
-
+  
 ## 📂 Dataset Overview               
 
 | Table Name         | Description                          | Rows       |
