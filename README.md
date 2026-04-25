@@ -17,7 +17,7 @@ The goal of this project is to analyze vendor performance across purchasing, inv
 ---       
   
 ## 📂 Dataset Overview                      
-
+ 
 | Table Name         | Description                          | Rows       |
 |--------------------|--------------------------------------|------------|
 | `begin_inventory`  | Starting inventory snapshot          | 206K       |
