@@ -13,8 +13,8 @@ The goal of this project is to analyze vendor performance across purchasing, inv
 - Optimize inventory turnover and procurement spending
 - Uncover hidden profit opportunities in high-margin, low-sales products
 - Enable data-driven decisions through interactive dashboards     
-    
----       
+     
+---         
   
 ## 📂 Dataset Overview                      
  
